@@ -1,3 +1,5 @@
+# program for determining the number of primes in the set 2..n where n is written in a file given as a program argument provided on standard input.
+
 import sys
 
 def sito(n):
